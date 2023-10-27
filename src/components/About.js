@@ -1,43 +1,19 @@
-// src/components/About.js
-
 import React from "react";
 
 export default function About() {
   return (
-    <section id="about">
-      <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
-        <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Hi, I'm Gordon.
-            <br className="hidden lg:inline-block" />I love to build amazing
-            apps.
-          </h1>
-          <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
-          </p>
-          <div className="flex justify-center">
-            <a
-              href="#contact"
-              className="inline-flex text-white bg-purple-400 border-0 py-2 px-6 focus:outline-none hover:bg-purple-500 rounded text-lg">
-              Work With Me
-            </a>
-            <a
-              href="#projects"
-              className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-              See My Past Work
-            </a>
-          </div>
-        </div>
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          <img
-            className="object-cover object-center rounded"
-            alt="hero"
-            src="./coding.svg"
-          />
-        </div>
-      </div>
-    </section>
+    <div className="lg:fixed lg:w-1/4 mx-2 px-8 lg:my-16 text-center lg:text-left">
+      <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-purple-500 font-semibold text-center pr-5">
+        I Make Things
+      </h1>
+      <p className="mb-8 leading-relaxed">
+        Since before I can remember it's been my passion to create things that people will use and enjoy. When I was young these 
+        took the forms of <div className="inline text-purple-400">board and card games</div> to play with my friends, that evolved 
+        into a (totally healthy) obsession with <div className="inline text-purple-400">tabletop roleplaying games</div>, and eventually 
+        into a love 
+        for <div className="inline text-purple-400">coding</div> and <div className="inline text-purple-400">Web Development</div> when 
+        I was introduced to the concept by my high school computer science teacher.
+      </p>
+    </div>
   );
 }

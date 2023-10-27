@@ -14,4 +14,9 @@ export const projects = [
     "React",
     "Java",
     "C++",
+    "Vue.js",
+    "HTML",
+    "Tailwind CSS",
+    "Bootstrap CSS",
+    "Web Design",
   ];
