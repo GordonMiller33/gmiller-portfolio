@@ -1,40 +1,17 @@
 export const projects = [
     {
-      title: "Project #1",
-      subtitle: "MERN Stack",
+      title: "React-tac-toe",
+      subtitle: "React, Tailwind CSS",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-1.gif",
-      link: "https://reactbootcamp.com",
-    },
-    {
-      title: "Project #2",
-      subtitle: "React and Python",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
-      link: "https://reedbarger.com",
-    },
-    {
-      title: "Project #3",
-      subtitle: "React and Firebase",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://jsbootcamp.com",
-    },
-    {
-      title: "Project #4",
-      subtitle: "React Hooks",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://pythonbootcamp.com",
+        "A simple game of tic-tac-toe using React",
+      image: "https://i.imgur.com/IlYa6En.png",
+      link: "https://gmiller-react-tac-toe.netlify.app/",
     },
   ];
 
   export const skills = [
     "Javascript",
     "React",
-    "Jambalaya",
+    "Java",
+    "C++",
   ];
