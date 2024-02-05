@@ -73,7 +73,7 @@ export default function Contact() {
             Contact Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Want to get in touch? You can reach em usingt he form below!
+            Want to get in touch? You can reach me using the form below!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
