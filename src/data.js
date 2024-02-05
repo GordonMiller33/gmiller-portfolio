@@ -19,8 +19,8 @@ export const projects = [
       title: "Board Movement Test",
       subtitle: "Vue.js, Tailwind CSS",
       description:
-        "An Attmept at making simple board movement in Vue.js",
-      image: "https://i.imgur.com/CK0k36S.png",
+        "An attmept at making simple board movement in Vue.js",
+      image: "https://i.imgur.com/INEzmcK.png",
       link: "https://stupendous-zabaione-b545dd.netlify.app/",
     },
 
