@@ -15,6 +15,15 @@ export const projects = [
       image: "https://i.imgur.com/CK0k36S.png",
       link: "https://www.copiersplus.com",
     },
+    {
+      title: "Board Movement Test",
+      subtitle: "Vue.js, Tailwind CSS",
+      description:
+        "An Attmept at making simple board movement in Vue.js",
+      image: "https://i.imgur.com/CK0k36S.png",
+      link: "https://stupendous-zabaione-b545dd.netlify.app/",
+    },
+
   ];
 
 
