@@ -7,7 +7,16 @@ export const projects = [
       image: "https://i.imgur.com/IlYa6En.png",
       link: "https://gmiller-react-tac-toe.netlify.app/",
     },
+    {
+      title: "Copiers Plus Website",
+      subtitle: "Drupal, HTML, CSS",
+      description:
+        "The website for Copiers Plus",
+      image: "https://i.imgur.com/CK0k36S.png",
+      link: "https://www.copiersplus.com",
+    },
   ];
+
 
   export const skills = [
     "Javascript",
