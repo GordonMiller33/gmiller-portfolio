@@ -11,7 +11,7 @@ import Testimonials from "./components/Testimonials";
 
 function App() {
   return (
-    <main className="text-gray-400 bg-gray-900 body-font w-screen">
+    <main className="text-gray-400 bg-gray-900 body-font w-full">
       <Navbar />
       <div className="hidden lg:block">
         <About />

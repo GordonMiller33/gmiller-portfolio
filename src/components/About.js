@@ -14,6 +14,14 @@ export default function About() {
         for <div className="inline text-purple-400">coding</div> and <div className="inline text-purple-400">Web Development</div> when 
         I was introduced to the concept by my high school computer science teacher.
       </p>
+      <p className="mb-8 leading-relaxed">
+        I would go on to study <div className="inline text-purple-400">Computer Science</div> at <div className="inline text-purple-400">Rutgers University </div> 
+        where I learned to work on projects as part of a team. Following 
+        college I had a government internship where I worked on updating existing sites and services used by the 
+        <div className="inline text-purple-400"> Federal Avaition Administration</div>.
+        Now, my forays into coding are mostly for passion projects or small websites for friends but I'm looking to work on a large team and
+        create something big again!
+      </p>
     </div>
   );
 }

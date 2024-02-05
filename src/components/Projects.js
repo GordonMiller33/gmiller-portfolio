@@ -12,10 +12,10 @@ export default function Projects() {
             Past Work
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Some of the completed projects I've made or worked on.
+            Some of the completed projects I've made or worked on. Unfortunately, I cannot include work done as a government contractor here.
           </p>
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div className="flex flex-wrap m-4">
           {projects.map((project) => (
             <a
               href={project.link}
