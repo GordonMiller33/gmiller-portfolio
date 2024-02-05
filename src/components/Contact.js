@@ -1,7 +1,5 @@
 import React from "react";
 
-
-
 export default function Contact() {
 
   const [name, setName] = React.useState("");
@@ -75,8 +73,7 @@ export default function Contact() {
             Contact Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            Want to get in touch? You can reach em usingt he form below!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
