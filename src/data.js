@@ -8,14 +8,6 @@ export const projects = [
       link: "https://gmiller-react-tac-toe.netlify.app/",
     },
     {
-      title: "Copiers Plus Website",
-      subtitle: "Drupal, HTML, CSS",
-      description:
-        "The website for Copiers Plus",
-      image: "https://i.imgur.com/CK0k36S.png",
-      link: "https://www.copiersplus.com",
-    },
-    {
       title: "Board Movement Test",
       subtitle: "Vue.js, Tailwind CSS",
       description:
@@ -23,18 +15,31 @@ export const projects = [
       image: "https://i.imgur.com/MzqHB16.png",
       link: "https://stupendous-zabaione-b545dd.netlify.app/",
     },
-
+	title: "Xpertranger Homebrew Portfolio",
+      subtitle: "AngularJS, Node.js, MongoDB, Github, HTML, CSS",
+      description:
+        "A portfolio for hosting and displaying my Dungeons and Dragons custom creations.",
+      image: "https://i.imgur.com/MzqHB16.png",
+      link: "https://https://xpertranger-portfolio.onrender.com/",
+	}
   ];
 
 
   export const skills = [
-    "Javascript",
-    "React",
-    "Java",
-    "C++",
-    "Vue.js",
-    "HTML",
-    "Tailwind CSS",
-    "Bootstrap CSS",
-    "Web Design",
+	"Python",
+	"Java",
+	"C/C++",
+	"Javascript",
+	"HTML",
+	"CSS",
+	"Bash",
+	"ReactJS",
+	"Bootstrap CSS",
+	"Tailwind CSS",
+	"VueJS",
+	"AngularJS",
+	"Linux (Red Hat, Ubuntu)",
+	"Node.js",
+	"MongoDB"
+
   ];
