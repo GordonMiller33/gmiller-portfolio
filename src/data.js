@@ -20,7 +20,7 @@ export const projects = [
       subtitle: "AngularJS, Node.js, MongoDB, Github, HTML, CSS",
       description:
         "A portfolio for hosting and displaying my Dungeons and Dragons custom creations.",
-      image: "https://i.imgur.com/MzqHB16.png",
+      image: "https://i.imgur.com/77Tfwcd.png",
       link: "https://https://xpertranger-portfolio.onrender.com/",
 	},
   ];
