@@ -17,7 +17,6 @@ function App() {
       <Skills />
       <Testimonials />
       <Contact />
-      </div>
     </main>
   );
 }
