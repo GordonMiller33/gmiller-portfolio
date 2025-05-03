@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 import React from "react";
-import About from "./components/About";
+//import About from "./components/About";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
@@ -20,9 +20,9 @@ function App() {
         <div className="hidden lg:w-1/4 lg:flex">
         </div>
         <div className="w-full lg:w-3/4 px-0 py-5 right-0">
-          <div className="lg:hidden">
+          <!-- <div className="lg:hidden">
             <About />
-          </div>
+          </div> -->
           <Projects />
           <Skills />
           <Testimonials />
