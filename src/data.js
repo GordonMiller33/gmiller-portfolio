@@ -19,7 +19,7 @@ export const projects = [
   	  title: "Xpertranger Homebrew Portfolio",
         subtitle: "AngularJS, Node.js, MongoDB, Github, HTML, CSS",
         description:
-          "A portfolio for hosting and displaying my Dungeons and Dragons custom creations.",
+          "A portfolio for hosting and displaying my custom Dungeons and Dragons creations.",
         image: "https://i.imgur.com/ZsYTTwa.png",
         link: "https://https://xpertranger-portfolio.onrender.com/",
   	},
