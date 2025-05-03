@@ -21,7 +21,7 @@ export const projects = [
         description:
           "A portfolio for hosting and displaying my custom Dungeons and Dragons creations.",
         image: "https://i.imgur.com/S5Dh3ez.png",
-        link: "https://https://xpertranger-portfolio.onrender.com/",
+        link: "https://xpertranger-portfolio.onrender.com/",
   	},
   ];
 
